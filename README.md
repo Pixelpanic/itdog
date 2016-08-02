@@ -19,8 +19,12 @@ Install API warpper:
 
 `npm install --save telegram-node-bot`
 
-and run.
+and run `node itdog_v1.js`. Make sure you have your own API Token, get one from @BotFather
 
 ## Known issues
 
 * Non-known
+
+## Who is the author?
+
+![IT狗做到嘔](https://s32.postimg.org/oc2jcptn9/image.jpg)
