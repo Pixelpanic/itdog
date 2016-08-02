@@ -1,7 +1,7 @@
 # ITDog
 _IT狗_ is a popular new term in **Hong Kong** , originally from a comic.
 
-[http://holland.pk/uptow/i4/60024a494ba842f54b58707e4136e46e.jpg]
+(http://holland.pk/uptow/i4/60024a494ba842f54b58707e4136e46e.jpg)
 
 This bot is using API warpper 'telegram-node-bot' https://github.com/Naltox/telegram-node-bot/
 
